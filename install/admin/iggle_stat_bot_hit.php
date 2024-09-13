@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/local/modules/iggle.stat/admin/iggle_stat_bot_hit.php");?>

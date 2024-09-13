@@ -1,0 +1,10 @@
+<?
+$MESS["IGGLE_STAT_HIT_ID"] = "ID";
+$MESS["IGGLE_STAT_HIT_SITE_ID"] = "Сайт";
+$MESS["IGGLE_STAT_HIT_SESSION_ID"] = "Сессия";
+$MESS["IGGLE_STAT_HIT_IP"] = "IP";
+$MESS["IGGLE_STAT_HIT_URI"] = "URL";
+$MESS["IGGLE_STAT_HIT_PAGE_TITLE"] = "Страница";
+$MESS["IGGLE_STAT_HIT_CREATE_DATE"] = "Дата посещения";
+$MESS["IGGLE_STAT_HIT_IS_404"] = "Ошибка 404";
+?>
